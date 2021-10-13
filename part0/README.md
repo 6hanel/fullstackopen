@@ -10,4 +10,4 @@ Create a diagram depicting the situation where the user goes to the single page 
 
 # 0.6: New Note
 Create a diagram depicting the situation where the user creates a new note using the single page version of the app.
-![GitHub Logo](https://raw.githubusercontent.com/6hanel/fullstackopen/main/png/0.6%20new_note.png)
+![GitHub Logo](https://raw.githubusercontent.com/6hanel/fullstackopen/main/part0/0.6%20new_note_spa.png)
