@@ -5,7 +5,7 @@ Create a similar diagram depicting the situation where the user creates a new no
 
 # 0.5: Single Page App
 Create a diagram depicting the situation where the user goes to the single page app version of the notes app at https://studies.cs.helsinki.fi/exampleapp/spa.
-![GitHub Logo](https://raw.githubusercontent.com/6hanel/fullstackopen/main/png/0.5%20singlepageapp.png)
+![GitHub Logo](https://raw.githubusercontent.com/6hanel/fullstackopen/main/part0/0.5%20singlepageapp.png)
 
 
 # 0.6: New Note
