@@ -15,14 +15,17 @@ Expand your application so that it shows more statistics about the gathered feed
 # 1.9: unicafe step4
 Change your application to display statistics only once feedback has been gathered.
 ![GitHub Logo](https://raw.githubusercontent.com/6hanel/fullstackopen/main/part1/1.9%20unicafe/Screenshot%202021-10-23%20at%203.20.51%20PM.png)
+![GitHub Logo](https://raw.githubusercontent.com/6hanel/fullstackopen/main/part1/1.9%20unicafe/Screen-Recording-2021-10-23-at-3.18.35-PM.gif)
 
 # 1.11*: unicafe step6
 Display the statistics in an HTML table, so that your application. Then perform the necessary actions to make the warning disappear.
 ![GitHub Logo](https://raw.githubusercontent.com/6hanel/fullstackopen/main/part1/1.11%20unicafe/Screenshot%202021-10-20%20at%203.03.35%20PM.png)
-![GitHub Logo](https://raw.githubusercontent.com/6hanel/fullstackopen/main/part1/1.9%20unicafe/Screen-Recording-2021-10-23-at-3.18.35-PM.gif)
 
 # 1.12*: anecdotes step1
 The world of software engineering is filled with anecdotes that distill timeless truths from our field into short one-liners.
 Expand the following application by adding a button that can be clicked to display a random anecdote from the field of software engineering.
 ![GitHub Logo](https://raw.githubusercontent.com/6hanel/fullstackopen/main/part1/1.12%20anecdotes/Screen-Recording-2021-10-21-at-11.47.02-AM.gif)
 
+# 1.13*: anecdotes step2
+Expand your application so that you can vote for the displayed anecdote.
+![GitHub Logo](https://raw.githubusercontent.com/6hanel/fullstackopen/main/part1/1.13%20anecdotes/Screen-Recording-2021-10-23-at-1.50.08-PM.gif)
