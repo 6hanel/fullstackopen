@@ -29,3 +29,7 @@ Expand the following application by adding a button that can be clicked to displ
 # 1.13*: anecdotes step2
 Expand your application so that you can vote for the displayed anecdote.
 ![GitHub Logo](https://raw.githubusercontent.com/6hanel/fullstackopen/main/part1/1.13%20anecdotes/Screen-Recording-2021-10-23-at-1.50.08-PM.gif)
+
+# 1.14*: anecdotes step3
+Now implement the final version of the application that displays the anecdote with the largest number of votes:
+![GitHub Logo](https://raw.githubusercontent.com/6hanel/fullstackopen/main/part1/1.14%20anecdotes/Screen-Recording-2021-10-23-at-1.48.22-PM.gif)
