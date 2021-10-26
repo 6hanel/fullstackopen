@@ -14,7 +14,6 @@ Expand your application so that it shows more statistics about the gathered feed
 
 # 1.9: unicafe step4
 Change your application to display statistics only once feedback has been gathered.
-![GitHub Logo](https://raw.githubusercontent.com/6hanel/fullstackopen/main/part1/1.9%20unicafe/Screenshot%202021-10-23%20at%203.20.51%20PM.png)
 ![GitHub Logo](https://raw.githubusercontent.com/6hanel/fullstackopen/main/part1/1.9%20unicafe/Screen-Recording-2021-10-23-at-3.18.35-PM.gif)
 
 # 1.11*: unicafe step6
